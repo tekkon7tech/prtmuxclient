@@ -1,0 +1,4 @@
+#not an actual sudoers, just for reference
+
+%packetradio  ALL=(ALL:ALL) NOPASSWD: /usr/sbin/kissattach, /usr/sbin/kissparms, /usr/bin/axlisten
+
